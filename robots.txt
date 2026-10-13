@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jhonnejrr.github.io/kits-professor/sitemap.xml
